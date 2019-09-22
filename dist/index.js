@@ -265,12 +265,6 @@ Object.defineProperty(exports, 'Field0', {
   }
 });
 exports.Form = rcFieldForm__default;
-Object.defineProperty(exports, 'FormInstance', {
-  enumerable: true,
-  get: function () {
-    return rcFieldForm.FormInstance;
-  }
-});
 Object.defineProperty(exports, 'FormProvider', {
   enumerable: true,
   get: function () {

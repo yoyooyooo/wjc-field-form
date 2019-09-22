@@ -3,8 +3,8 @@ export default {
   esm: "rollup",
   cjs: "rollup",
   doc: {
-    themeConfig: { mode: "light" },
-    base: "/wjc-field-form/",
-    public: "/wjc-field-form/"
+    themeConfig: { mode: "light" }
+    // base: "/wjc-field-form/",
+    // public: "/wjc-field-form/"
   }
 };

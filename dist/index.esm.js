@@ -1,5 +1,5 @@
 import { Field as Field$1 } from 'rc-field-form';
-export { Field as Field0, default as Form, FormInstance, FormProvider, List, useForm } from 'rc-field-form';
+export { Field as Field0, default as Form, FormProvider, List, useForm } from 'rc-field-form';
 import React from 'react';
 import styled from 'styled-components';
 import { Col, Icon } from 'antd';
