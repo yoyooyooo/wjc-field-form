@@ -4,6 +4,7 @@ export default {
   cjs: "rollup",
   doc: {
     themeConfig: { mode: "light" },
-    base: "/wowjoy-field-form/"
+    base: "/wjc-field-form/",
+    public: "/wjc-field-form/"
   }
 };

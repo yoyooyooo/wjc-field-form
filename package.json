@@ -22,7 +22,10 @@
   "license": "ISC",
   "dependencies": {
     "rc-field-form": "^0.0.0-alpha.21",
-    "react": "^16.9.0"
+    "react": "^16.9.0",
+    "antd": "^3.23.4",
+    "react-spring": "^8.0.27",
+    "styled-components": "^4.3.2"
   },
   "peerDependencies": {
     "antd": "^3.23.4",
