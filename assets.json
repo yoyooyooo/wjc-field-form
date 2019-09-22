@@ -1,7 +1,7 @@
 {
-  "vendors.css": "/static/css/vendors.f8d0536362ecb11cc73b.css",
-  "vendors.js": "/static/js/vendors.c7ca965a.js",
-  "app.js": "/static/js/app.f8d0536362ecb11cc73b.js",
-  "src-docs-field.js": "/static/js/src-docs-field.b0cff549.js",
-  "index.html": "/index.html"
+  "vendors.css": "/wjc-field-form/static/css/vendors.b296da6484ba5ee5a5d4.css",
+  "vendors.js": "/wjc-field-form/static/js/vendors.c2a53802.js",
+  "app.js": "/wjc-field-form/static/js/app.b296da6484ba5ee5a5d4.js",
+  "src-docs-field.js": "/wjc-field-form/static/js/src-docs-field.b0cff549.js",
+  "index.html": "/wjc-field-form/index.html"
 }
