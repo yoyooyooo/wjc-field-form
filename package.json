@@ -18,7 +18,7 @@
     "dist"
   ],
   "author": "",
-  "repo": "https://github.com/yoyooyooo/wowjoy-field-form",
+  "repo": "https://github.com/yoyooyooo/wjc-field-form",
   "license": "ISC",
   "dependencies": {
     "rc-field-form": "^0.0.0-alpha.21",
