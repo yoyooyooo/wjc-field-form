@@ -1,0 +1,35 @@
+{
+  "name": "wjc-field-form",
+  "version": "0.0.1",
+  "description": "wowjoy field form based on rc-field-form",
+  "main": "dist/index.esm.js",
+  "sideEffects": false,
+  "scripts": {
+    "build": "npx father build",
+    "doc:dev": "npx father doc dev",
+    "doc:build": "npx father doc build",
+    "doc:deploy": "npx father doc deploy"
+  },
+  "keywords": [
+    "react"
+  ],
+  "files": [
+    "src",
+    "dist"
+  ],
+  "author": "",
+  "repo": "https://github.com/yoyooyooo/wowjoy-field-form",
+  "license": "ISC",
+  "dependencies": {
+    "rc-field-form": "^0.0.0-alpha.21",
+    "react": "^16.9.0"
+  },
+  "peerDependencies": {
+    "antd": "^3.23.4",
+    "react-spring": "^8.0.27",
+    "styled-components": "^4.3.2"
+  },
+  "devDependencies": {
+    "docz": "^1.3.2"
+  }
+}
